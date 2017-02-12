@@ -1,6 +1,6 @@
-FROM golang:1.6.2
+FROM golang:1.7.5
 
-MAINTAINER Tamás Török-Vistai <ttamas@gmail.com>
+MAINTAINER Nepooomuk <robin.nepomuk.mai@me.com>
 
 ENV GLIDE_VERSION 0.11.0
 
